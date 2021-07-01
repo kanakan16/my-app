@@ -10,7 +10,7 @@ public class App
     {
      String first = "Java";
     String second = "Python";
-    String third = "JavaScript(JS)";
+    String third = "JavaScript(JS with ES6)";
 
     
     System.out.println(first);   // print Java
